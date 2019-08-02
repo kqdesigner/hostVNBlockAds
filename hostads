@@ -6,6 +6,7 @@
 # Chặn web khiêu dâm, bộ lọc nhẹ nhàng, load web nhanh mượt không lag,...
 
 List Block Ads VN
+0.0.0.0 http://adcalm.com/
 0.0.0.0 limneos.net
 0.0.0.0 appldnld.apple.com
 0.0.0.0 mesu.apple.com
