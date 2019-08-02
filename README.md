@@ -10,12 +10,12 @@
 
 ## iOS
 
-- Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) sử dụng tập tin cấu hình dưới đây:
+- Với ứng dụng Surge sử dụng tập tin cấu hình dưới đây:
 ```
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostVNBlockAds.conf
 ```
 
-- Với ứng dụng [Adguard Pro] và [Adblock] sử dụng tập tin hosts dưới đây:
+- Với ứng dụng Adguard Pro và Adblock sử dụng tập tin hosts dưới đây:
 ```
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostBlockAdsVN
 ```
