@@ -2,17 +2,12 @@
 
 - Với ứng dụng [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge) sử dụng tập tin cấu hình dưới đây:
 ```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN.conf
-```
-
-- Với ứng dụng [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) sử dụng tập tin cấu hình dưới đây:
-```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hostsVN-quantumult.conf
+https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostVNBlockAds.conf
 ```
 
 - Với ứng dụng [Adguard Pro] và [Adblock] sử dụng tập tin hosts dưới đây:
 ```
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostBlockAdsVN
 ```
 
 ## Danh sách chỉ bao gồm tên miền
