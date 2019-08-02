@@ -1,1 +1,1 @@
-# Kim Quang Design - Dev - MMO
+# Host Block Ads VN
