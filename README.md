@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 
 ## Danh sách chỉ bao gồm tên miền
 ```
-(https://raw.githubusercontent.com/kimquangpc/hostBlockAdsVN/master/domain)
+https://raw.githubusercontent.com/kimquangpc/hostBlockAdsVN/master/domain
 ```
 
 ***
