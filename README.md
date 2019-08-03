@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/domain.txt
 
 - Mac OS X, iOS, Android, Linux: /etc/hosts
 ```
-Windows: %SystemRoot%\system32\drivers\etc\hosts
+Windows: Windows\system32\drivers\etc\hosts
+Mac: Command+Shift+G, gõ /etc/, nhấn GO
 ```
 ***
