@@ -11,11 +11,13 @@
 ## iOS
 
 - Với ứng dụng Surge sử dụng tập tin cấu hình dưới đây:
+
 ```
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostVNBlockAds.conf
 ```
 
 - Với ứng dụng Adguard Pro và Adblock sử dụng tập tin hosts dưới đây:
+
 ```
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostBlockAdsVN.txt
 ```
@@ -24,16 +26,19 @@ https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostBlockAdsV
 ## Android
 
 - Với các máy Android chưa root, sử dụng đường dẫn dưới đây cho một số ứng dụng như [Blokada](https://blokada.org/#download), [DNS66](https://f-droid.org/packages/org.jak_linux.dns66/), [Virtual Hosts](https://play.google.com/store/apps/details?id=com.github.xfalcon.vhosts):
+
 ```
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostBlockAdsVN.txt
 ```
 
 - Với các máy Android đã root, sử dụng đường dẫn dưới đây để thêm vào [Adaway](https://f-droid.org/en/packages/org.adaway/):
+
 ```
 https://abpvn.com/android/abpvn.txt
 ```
 
 ## Danh sách chỉ bao gồm tên miền
+
 ```
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/domain.txt
 ```
@@ -41,9 +46,11 @@ https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/domain.txt
 ## Windows, Mac OS, Linux
 
 - Mac OS X, iOS, Android, Linux: /etc/hosts
+
 ```
 Windows: Windows\system32\drivers\etc\hosts
 ```
+
 ```
 Mac: Command+Shift+G, gõ /etc/, nhấn GO
 ```
