@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostVNBlockAd
 ```
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostBlockAdsVN
 ```
-**Ngoài ra**, bạn nên sử dụng thêm [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) để chặn hoàn toàn quảng cáo **trên Safari** khi đọc báo, lướt web để tránh bị làm phiền bởi các quảng cáo chiếm hết màn hình hay bật lên mỗi khi đến đoạn phim gây cấn. Với kinh nghiệm sử dụng iOS của mình, đây là combo chặn quảng cáo **hoàn hảo nhất** mà mình đã và đang sử dụng!
+**Ngoài ra**, bạn nên sử dụng thêm [Adguard Free](https://apps.apple.com/vn/app/adguard-adblock-privacy/id1047223162?l=vi) để chặn hoàn toàn quảng cáo **trên Safari** khi đọc báo, lướt web để tránh bị làm phiền bởi các quảng cáo chiếm hết màn hình hay bật lên mỗi khi đến đoạn phim gây cấn. Với kinh nghiệm sử dụng iOS của mình, đây là combo chặn quảng cáo **hoàn hảo nhất** mà mình đã và đang sử dụng!
 
 ## Android
 
