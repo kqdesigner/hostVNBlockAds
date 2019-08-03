@@ -19,11 +19,6 @@ https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostVNBlockAd
 ```
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostBlockAdsVN
 ```
-
-## Danh sách chỉ bao gồm tên miền
-```
-https://raw.githubusercontent.com/kimquangpc/hostBlockAdsVN/master/domain
-```
 **Ngoài ra**, bạn nên sử dụng thêm [Adguard Free](https://github.com/bigdargon/hostsVN/wiki/Adguard) để chặn hoàn toàn quảng cáo **trên Safari** khi đọc báo, lướt web để tránh bị làm phiền bởi các quảng cáo chiếm hết màn hình hay bật lên mỗi khi đến đoạn phim gây cấn. Với kinh nghiệm sử dụng iOS của mình, đây là combo chặn quảng cáo **hoàn hảo nhất** mà mình đã và đang sử dụng!
 
 ## Android
@@ -38,9 +33,14 @@ https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostBlockAdsV
 https://abpvn.com/android/abpvn.txt
 ```
 
+## Danh sách chỉ bao gồm tên miền
+```
+https://raw.githubusercontent.com/kimquangpc/hostBlockAdsVN/master/domain
+```
+
 ## Windows, Mac OS, Linux
 
-Mac OS X, iOS, Android, Linux: /etc/hosts
+- Mac OS X, iOS, Android, Linux: /etc/hosts
 ```
 Windows: %SystemRoot%\system32\drivers\etc\hosts
 ```
