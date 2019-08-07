@@ -16,6 +16,12 @@
 https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostVNBlockAds.conf
 ```
 
+- Với ứng dụng Quantumult sử dụng tập tin cấu hình dưới đây:
+
+```
+https://raw.githubusercontent.com/kimquangpc/hostVNBlockAds/master/hostVNBlockAds-Quantumult.conf
+```
+
 - Với ứng dụng Adguard Pro và Adblock sử dụng tập tin hosts dưới đây:
 
 ```
@@ -55,3 +61,5 @@ Windows: Windows\system32\drivers\etc\hosts
 Mac: Command+Shift+G, gõ /etc/, nhấn GO
 ```
 ***
+
+# Main Source: [hostVN - Bigdragon](https://bigdargon.github.io/hostsVN)
