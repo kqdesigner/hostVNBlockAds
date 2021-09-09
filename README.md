@@ -2,9 +2,9 @@
 
 # Liên Hệ Admin
 - [Facebook](https://fb.com/kqdesigner)
-- [FanPage](https://www.facebook.com/kimquangdesmmo)
+- [FanPage](https://www.facebook.com/KQDesign.VN)
 - [Youtube](https://www.youtube.com/channel/UC4oRE_-EdHd8DYVCvh0U5Zw?sub_confirmation=1)
-- [Blog](https://Chiasethuthuatappdesign.blogspot.com)
+- [Blog](https://kqdesignmmo.blogspot.com/)
 - [Web hostVNBlockAds](https://kimquangpc.github.io/hostVNBlockAds/)
 
 
