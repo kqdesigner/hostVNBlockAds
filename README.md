@@ -1,7 +1,7 @@
 <a href="https://imgur.com/lSL0QwG"><img src="https://i.imgur.com/lSL0QwG.png" title="source: imgur.com" /></a>
 
 # Liên Hệ Admin
-- [Facebook](https://www.facebook.com/kimquangdesign)
+- [Facebook](https://fb.com/kqdesigner)
 - [FanPage](https://www.facebook.com/kimquangdesmmo)
 - [Youtube](https://www.youtube.com/channel/UC4oRE_-EdHd8DYVCvh0U5Zw?sub_confirmation=1)
 - [Blog](https://Chiasethuthuatappdesign.blogspot.com)
